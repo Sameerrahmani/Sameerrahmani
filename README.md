@@ -1,7 +1,7 @@
 # Hello! 🙋🏽‍♂️
 
 ## I'm Sameer Rahmani. 👨🏽‍💼 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerrahmani&langs_count=5&theme=dracula&layout=compact)] ![Github stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerrahmani&langs_count=5&theme=dracula&layout=compact) ![Github stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula&show_icons=true&count_private=true)
 
 
 
