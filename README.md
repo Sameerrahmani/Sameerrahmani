@@ -1,8 +1,6 @@
 # Hello! 🙋🏽‍♂️
 
-## I'm Sameer Rahmani. 👨🏽‍💼
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula)](https://github.com/Sameerrahmani)
+## I'm Sameer Rahmani. 👨🏽‍💼 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula)](https://github.com/Sameerrahmani)
 
 
 ### I am...
