@@ -1,7 +1,7 @@
 # Hello! 🙋🏽‍♂️
 
 ## I'm Sameer Rahmani. 👨🏽‍💼 
-[![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula)](https://github.com/Sameerrahmani)
+[![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula)](https://github.com/Sameerrahmani) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerrahmani&langs_count=5&theme=dracula)](https://github.com/Sameerrahmani)
 
 
 
