@@ -1,9 +1,7 @@
 # Hello! 🙋🏽‍♂️
 
 ## I'm Sameer Rahmani. 👨🏽‍💼 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerrahmani&langs_count=5&theme=dracula&layout=compact)](https://github.com/Sameerrahmani) [![Github stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula&show_icons=true&count_private=true)](https://github.com/Sameerrahmani)
-
-
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani&theme=dracula&show_icons=true&count_private=true)](https://github.com/Sameerrahmani)
 
 ### I am...
 
@@ -17,3 +15,4 @@
 
 You can find my game development projects on my [itch.io profile.](https://sameerr.itch.io/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerrahmani&langs_count=5&theme=dracula&layout=compact)](https://github.com/Sameerrahmani) 
