@@ -2,6 +2,9 @@
 
 ## I'm Sameer Rahmani. 👨🏽‍💼
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameerrahmani)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### I am...
 
 - 17 Years Old 🧑🏽
