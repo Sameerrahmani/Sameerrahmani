@@ -6,7 +6,7 @@
 ### I am...
 
 - 17 Years Old 🧑🏽
-- Aspiring to become a Computer Science student at McMaster University 💻
+- Aspiring to become a Computer Science student 💻
 - An avid learner 🧠
 - Dark Fantasy/Fantasy book enthusiast 📕
 - Running, badminton, soccer enjoyer ⚽
