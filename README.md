@@ -6,7 +6,7 @@
 ### I am...
 
 - 17 Years Old 🧑🏽
-- Aspiring to become a Computer Science student 💻
+- Aspiring to become a Computer Science/Software Engineering student 💻
 - An avid learner 🧠
 - Dark Fantasy/Fantasy book enthusiast 📕
 - Running, badminton, soccer enjoyer ⚽
@@ -16,5 +16,3 @@
 
 
 You can find my game development projects on my [itch.io profile.](https://sameerr.itch.io/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameerrahmani&langs_count=5&theme=dracula&layout=compact)](https://github.com/Sameerrahmani) 
