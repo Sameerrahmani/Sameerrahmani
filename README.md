@@ -5,7 +5,7 @@
 
 ### I am...
 
-- 17 Years Old 🧑🏽
+- 18 Years Old 🧑🏽
 - Aspiring to become a Computer Science/Software Engineering student 💻
 - An avid learner 🧠
 - Dark Fantasy/Fantasy book enthusiast 📕
