@@ -5,12 +5,8 @@
 ### I am...
 
 - 18 Years Old 🧑🏽
-- Aspiring to become a Computer Science/Software Engineering student 💻
-- An avid learner 🧠
-- Dark Fantasy/Fantasy book enthusiast 📕
-- Running, badminton, soccer enjoyer ⚽
-- A Unity/Godot Game Developer (C#) 🎮
-- Learning Machine Learning, Data Science, App and Web Development with Python
+- Currently a Computer Science student 💻
+- Godot Game Developer (C#) 🎮
 
 
 
